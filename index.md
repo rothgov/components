@@ -1,12 +1,15 @@
-# Styleguide Checklist
+# Rotherham MBC Stylegudie
 
+A styleguide for Rotherham Metropolitan Borough Council
+
+## Styleguide Checklist
 A style guide establishes and enforces style to improve communication.
 
 This is a checklist of potential things that might want to be considered when
 constructing a style guide for a company or project. Currently a work in
 progress so please feel free to open issues or pull requests.
 
-# Table of Contents
+## Table of Contents
 - [General](#general)
 - [Company Brand](#company-brand)
   - [Logo](#logo)
