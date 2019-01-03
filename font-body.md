@@ -1,9 +1,11 @@
 ---
-title: Font - Muli
+title: Font - Body
 layout: default
 ---
 
-# Font / Muli
+# Font / Body
+
+## Muli
 
 The Rotherham Council font is 'Muli'.
 
