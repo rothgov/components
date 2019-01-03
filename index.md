@@ -26,7 +26,7 @@ layout: default
 - Brand ownership
 
 ### Basic Elements {#basic-elements}
-- Logo
+- [Logo](/styleguide/logo)
 - Logo / Reversed
 - Logo / Positioning
 - Logo / Partners
