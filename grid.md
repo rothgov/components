@@ -37,10 +37,10 @@ Using the same scale, we can go smaller to size and space objects such as paddin
 
 A 'rem' unit is equal to the computed value of font-size on the root element.
 
+[Find out about rem](https://www.w3.org/TR/css-values-3/#rem)
+
 ## Print
 
 As our grid is based on simple maths, the scale can easily be transfered to create artwork for printed materials.
-
-[Find out about rem](https://www.w3.org/TR/css-values-3/#rem)
 
 [Back to homepage](/styleguide/)
