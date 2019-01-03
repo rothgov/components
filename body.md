@@ -16,8 +16,7 @@ Muli font is free to download and use from Google Fonts.
 [Download Muli font](https://fonts.google.com/specimen/Muli)
 
 ### See also:
-- Font / Josefin Sans
-- Fonts / Fallback
+- [Font / Headings](/styleguide/headings)
 - Typography
 
 [Back to homepage](/styleguide/)
