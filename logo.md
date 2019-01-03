@@ -16,7 +16,7 @@ Available in various formats:
 ![Rotherham Council logo - Black version](https://rothgov.github.io/design/images/rmbc-logo-black.svg "Rotherham Council - Black Logo")
 
 ### See also:
-- [Logo / Reversed](/styleguide/logo)
+- [Logo / Reversed](/styleguide/logo-reversed)
 - [Logo / Position](/styleguide/logo-position)
 
 [Back to homepage](/styleguide/)
