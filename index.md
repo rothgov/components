@@ -67,3 +67,5 @@ layout: default
 
 ### Contacts {#contacts}
 - [Contacts](/styleguide/contacts)
+
+### [Back to top] {#top}
