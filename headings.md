@@ -16,8 +16,7 @@ Josefin Sans font is free to download and use from Google Fonts.
 [Download Josefin Sans font](https://fonts.google.com/specimen/Josefin+Sans)
 
 ### See also:
-- Font / Body
-- Fonts / Fallback
+- [Font / Body](/styleguide/body)
 - Typography
 
 [Back to homepage](/styleguide/)
