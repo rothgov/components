@@ -33,7 +33,7 @@ layout: default
 ### Basic Elements {#basic-elements}
 - [Logo](/styleguide/logo)
 - [Logo / Reversed](/styleguide/logo-reversed)
-- Logo / Positioning
+- [Logo / Position](/styleguide/logo-position)
 - Logo / Partners
 - Logo / Avatars
 - [Font / Body](/styleguide/body)
