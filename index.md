@@ -58,7 +58,7 @@ layout: default
 - Livery
 
 ### Resources {#resources}
-- Resources
+- [Resources](/styleguide/resources)
 
 ### Contacts {#contacts}
 - [Contacts](/styleguide/contacts)
