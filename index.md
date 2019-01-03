@@ -32,7 +32,7 @@ layout: default
 - Logo / Partners
 - Logo / Avatars
 - [Font / Body](/styleguide/font-body)
-- Font / Josefin Sans
+- [Font / Headings](/styleguide/headings)
 - Colours / Primary
 - Colours / Secondary
 - Colours / Gradients
