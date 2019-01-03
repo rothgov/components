@@ -21,7 +21,7 @@ layout: default
 - Purpose
 
 ### Messaging {#messaging}
-- Tone of voice
+- [Tone of voice](/styleguide/tone-of-voice)
 - Brand
 - Audience types
 - Brand ownership
