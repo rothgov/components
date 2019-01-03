@@ -7,7 +7,7 @@ layout: default
 
 ## Muli
 
-The Rotherham Council font is 'Muli'.
+The font we use for body copy is 'Muli'.
 
 Muli font has been created for use on digital and print projects.
 
