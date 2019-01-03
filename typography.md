@@ -5,6 +5,8 @@ layout: default
 
 # Typography
 
+Our typography follows the same spacing scales as our grid. We use the browser default font size of 16px to size and space type.
+
 ## Type Scale
 
 To create an easily readable interface, you don't need lots of font-sizes. A simple ratio-based scale with 7-8 options should be enough.
