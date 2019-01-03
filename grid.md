@@ -7,7 +7,7 @@ layout: default
 
 The grid is the foundation of everything we design, develop and deliver for Rotherham Council.
 
-Everything from our page layouts to our icons use the same scale.
+Everything from our page layouts to our icons use a simple ratio-based scale.
 
 ## Browser first
 
