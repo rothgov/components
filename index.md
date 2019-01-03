@@ -31,7 +31,7 @@ layout: default
 - Logo / Positioning
 - Logo / Partners
 - Logo / Avatars
-- [Font / Body](/styleguide/font-body)
+- [Font / Body](/styleguide/body)
 - [Font / Headings](/styleguide/headings)
 - Colours / Primary
 - Colours / Secondary
