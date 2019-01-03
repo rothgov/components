@@ -7,6 +7,12 @@ layout: default
 
 ## Grid
 
+The grid is the foundation of everything we design, develop and deliver for Rotherham Council.
+
+Everything from our page layouts to our icons use the same scale.
+
+## Browser first
+
 ### Scale up
 
 We use the browser default font size of 16px to size and space objects. Using multiples of 16 makes scaling for a wide variety of devices easy and consistent.
@@ -21,6 +27,8 @@ We use the browser default font size of 16px to size and space objects. Using mu
 
 Using the same scale, we can go smaller to size and space objects such as paddings and margins.
 
+- 14px (.875rem)
+- 12px (.75rem)
 - 8px (.5rem)
 - 4px (.25rem)
 - 2px (.125rem)
@@ -28,6 +36,10 @@ Using the same scale, we can go smaller to size and space objects such as paddin
 ### Not sure what a 'rem' unit is?
 
 A 'rem' unit is equal to the computed value of font-size on the root element.
+
+## Print
+
+As our grid is based on simple maths, the scale can easily be transfered to printed materials.
 
 [Find out about rem](https://www.w3.org/TR/css-values-3/#rem)
 
