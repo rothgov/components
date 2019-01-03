@@ -1,3 +1,8 @@
+---
+title: Homepage
+layout: default
+---
+
 # Rotherham Council — Styleguide
 ### Roadmap
 
@@ -56,4 +61,4 @@
 - Resources
 
 ### Contacts {#contacts}
-- Contacts
+- [Contacts](/styleguide/contacts)
