@@ -38,7 +38,7 @@ layout: default
 - Logo / Avatars
 - [Font / Body](/styleguide/body)
 - [Font / Headings](/styleguide/headings)
-- Colours / Primary
+- [Colours / Primary](/styleguide/colours-primary)
 - Colours / Secondary
 - Colours / Gradients
 - Colours / Accessibility
