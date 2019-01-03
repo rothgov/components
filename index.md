@@ -69,4 +69,4 @@ layout: default
 ### Contacts {#contacts}
 - [Contacts](/styleguide/contacts)
 
-### [Back to top] {#top}
+<a href="#top">Back to top</a>
