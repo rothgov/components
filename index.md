@@ -41,7 +41,7 @@ layout: default
 - [Colours / Primary](/styleguide/colours-primary)
 - Colours / Secondary
 - Colours / Gradients
-- Colours / Accessibility
+- [Colours / Accessibility](/styleguide/colours-accessibility)
 - [Mesh / Graphic](/styleguide/mesh-graphic)
 
 ### Digital {#digital}
