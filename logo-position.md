@@ -5,16 +5,16 @@ layout: default
 
 # Logo / Position
 
-Although we want to create consistent services and products, our new logo is designed to be used in a wide range of applications. From different screen sizes, orientations and resolutions to full colour print, uniforms and vehicle liveries.
+You can use our new logo in a wide range of applications. From different devices and resolutions to full colour print and vehicle liveries.
 
-The logo is versatile and can be used in different positions, depending upon the applicaction and purpose.
+The logo is versatile and you can use it in different positions, depending upon the purpose.
 
 ### Appropriate positioning
 The following examples show how the logo can be used. For example, the logo can be positioned in the top right of a newsletter or in the bottom center of a website footer (mobile).
 
 ### Clear space
 
-To give the Rotherham Council log maximum impact, use a safe area of half the height of the Rotherham 'R'.
+To give the Rotherham Council logo maximum impact, use a safe area of half the height of the Rotherham 'R'.
 
 ### Minimum size
 
