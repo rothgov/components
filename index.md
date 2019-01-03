@@ -35,7 +35,7 @@ layout: default
 - [Logo / Reversed](/styleguide/logo-reversed)
 - [Logo / Position](/styleguide/logo-position)
 - [Logo / Partners](/styleguide/logo-partners)
-- Logo / Avatars
+- [Logo / Avatar](/styleguide/avatar)
 - [Font / Body](/styleguide/body)
 - [Font / Headings](/styleguide/headings)
 - [Colours / Primary](/styleguide/colours-primary)
