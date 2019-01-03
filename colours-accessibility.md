@@ -1,9 +1,9 @@
 ---
-title: Colour - Accessibility
+title: Colours - Accessibility
 layout: default
 ---
 
-# Colour / Accessibility
+# Colours / Accessibility
 
 All of the Councils services and publications should meet accessibility standards, including thoise for colour contrast.
 
