@@ -27,7 +27,7 @@ layout: default
 - Brand ownership
 
 ### Spacing {#spacing}
-- [Spacing](/styleguide/spacing)
+- [Grid](/styleguide/grid)
 - [Typography](/styleguide/typography)
 
 ### Basic Elements {#basic-elements}
