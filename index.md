@@ -16,7 +16,7 @@ layout: default
 6. [Contacts](#contacts)
 
 ### Introduction {#introduction}
-- Introduction
+- [Introduction](/styleguide/introduction)
 - Purpose
 
 ### Messaging {#messaging}
