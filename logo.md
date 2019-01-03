@@ -11,7 +11,9 @@ Our Logo has been specially drawn and should not been represented with any other
 
 Available in various formats:
 - Colour (coming soon)
-- Mono (coming soon)
+
+### Logo / Black
+![Rotherham Council logo - Black version](https://rothgov.github.io/design/images/rmbc-logo-black.svg "Rotherham Council - Black Logo")
 
 ### See also:
 - Logo / Reversed
