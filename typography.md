@@ -9,7 +9,7 @@ Our typography follows the same spacing scales as our grid. We use the browser d
 
 ## Type Scale
 
-To create an easily readable interface, you don't need lots of font-sizes. A simple ratio-based scale with 7-8 options should be enough.
+To create an easily readable interface, you don't need lots of font-sizes. A simple ratio-based scale with around 7 options should be enough.
 
 Our font scale is based on the default browser size of 16px.
 
@@ -20,6 +20,8 @@ Our font scale is based on the default browser size of 16px.
 - 16px/1rem
 - 14px/.875rem
 - 12px/.75rem
+
+If you need larger font sizes for creating large format prints, use the ratio-based scale to go larger.
 
 ## Line Height
 
