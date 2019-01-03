@@ -9,8 +9,8 @@ The 'Rotherham Council' logo is less formal than our previous logo. Although we 
 
 Our Logo has been specially drawn and should not been represented with any other typeface.
 
-Available in various formats:
-- Colour (coming soon)
+### Logo / Grey
+![Rotherham Council logo - Grey version](https://rothgov.github.io/design/images/rmbc-logo-grey.svg "Rotherham Council - Grey Logo")
 
 ### Logo / Black
 ![Rotherham Council logo - Black version](https://rothgov.github.io/design/images/rmbc-logo-black.svg "Rotherham Council - Black Logo")
