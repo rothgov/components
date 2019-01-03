@@ -31,7 +31,7 @@ layout: default
 - Logo / Positioning
 - Logo / Partners
 - Logo / Avatars
-- [Font / Muli](/styleguide/font-muli)
+- [Font / Body](/styleguide/font-body)
 - Font / Josefin Sans
 - Colours / Primary
 - Colours / Secondary
