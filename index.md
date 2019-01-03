@@ -1,4 +1,4 @@
-# Rotherham Council — Styleguide
+# Rotherham Council — Identity Guidelines
 ### Roadmap
 
 ## Contents
@@ -13,6 +13,11 @@
 ### Introduction
 ### Contents
 ### Messaging
+1. Tone of voice
+2. Brand
+3. Audience types
+4. Brand ownership
+
 ### Basic Elements
 1. Logo
 2. Logo / Reversed
@@ -26,5 +31,14 @@
 10. Colours / Gradients
 
 ### Digital
+1. Website / Mobile
+2. Website / Desktop
+3. Social media / Icons
+4. Social media / Kit
+5. Screen / Landscape
+6. Screen / Portrait
+
 ### Print
 ### Contacts
+1. Resources
+2. Contacts
