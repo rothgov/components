@@ -1,12 +1,12 @@
 ---
-title: Colour - Primary
+title: Colours - Primary
 layout: default
 ---
 
-# Colour / Primary
+# Colours / Primary
 
 Use the Councils colour palette:
-- to draw users’ focus to particular content areas
+- to draw users' focus to particular content areas
 - to give emphasis, depth and highlight to our work where needed
 - in the right context — for example dont use large amounts of colour in a form, it can distract the user
 - with restraint — users can read content better when we use limited colour
