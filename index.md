@@ -2,21 +2,21 @@
 ### Roadmap
 
 ## Contents
-1. [Introduction](#Introduction)
-2. [Messaging](#Messaging)
-3. [Basic Elements](#Basic-Elements)
-4. [Digital](#Digital)
-5. [Print](#Print)
+1. [Introduction](#introduction)
+2. [Messaging](#messaging)
+3. [Basic Elements](#basic-elements)
+4. [Digital](#digital)
+5. [Print](#print)
 6. [Contacts](#contacts)
 
-### Introduction
-### Messaging
+### Introduction {#introduction}
+### Messaging {#messaging}
 - Tone of voice
 - Brand
 - Audience types
 - Brand ownership
 
-### Basic Elements
+### Basic Elements {#basic-elements}
 - Logo
 - Logo / Reversed
 - Logo / Positioning
@@ -29,7 +29,7 @@
 - Colours / Gradients
 - Colours / Accessibility
 
-### Digital
+### Digital {#digital}
 - Website / Mobile
 - Website / Desktop
 - Social media / Icons
@@ -38,7 +38,7 @@
 - Screen / Promotional
 - Email signature
 
-### Print
+### Print {#print}
 - Stationery
 - Poster / Information
 - Poster / Promotional
