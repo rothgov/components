@@ -13,9 +13,11 @@ Everything from our page layouts to our icons use the same scale.
 
 ## Browser first
 
+We use the browser default font size of 16px to size and space objects.
+
 ### Scale up
 
-We use the browser default font size of 16px to size and space objects. Using multiples of 16 makes scaling for a wide variety of devices easy and consistent.
+Using multiples of 16 makes scaling for a wide variety of devices easy and consistent.
 
 - 16px (1rem)
 - 32px (2rem)
@@ -39,7 +41,7 @@ A 'rem' unit is equal to the computed value of font-size on the root element.
 
 ## Print
 
-As our grid is based on simple maths, the scale can easily be transfered to printed materials.
+As our grid is based on simple maths, the scale can easily be transfered to create artwork for printed materials.
 
 [Find out about rem](https://www.w3.org/TR/css-values-3/#rem)
 
