@@ -1,11 +1,9 @@
 ---
-title: Spacing
+title: Grid
 layout: default
 ---
 
-# Spacing
-
-## Grid
+# Grid
 
 The grid is the foundation of everything we design, develop and deliver for Rotherham Council.
 
