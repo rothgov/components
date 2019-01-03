@@ -18,7 +18,7 @@ To give the Rotherham Council log maximum impact, use a safe area of half the he
 
 ### Minimum size
 
-Don't use the logo below 128px (8rem) on screens. If you need to go smaller, consider using the 'Avatar' version of the logo.
+Don't use the logo below 128px (8rem) wide on screens. If you need to go smaller, consider using the 'Avatar' version of the logo.
 
 ### Don't
 - rotate
