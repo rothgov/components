@@ -1,9 +1,9 @@
 ---
-title: Tone of Voice
+title: Tone of voice
 layout: default
 ---
 
-# Tone of Voice
+# Tone of voice
 
 - Friendly but not over familiar
 - Simple but not patronising
