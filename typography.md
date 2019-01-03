@@ -11,13 +11,13 @@ To create an easily readable interface, you don't need lots of font-sizes. A sim
 
 Our font scale is based on the default browser size of 16px.
 
-48px (3rem)
-36px/2.25rem
-24px/1.5rem
-20px/1.25rem
-16px/1rem
-14px/.875rem
-12px/.75rem
+- 48px (3rem)
+- 36px/2.25rem
+- 24px/1.5rem
+- 20px/1.25rem
+- 16px/1rem
+- 14px/.875rem
+- 12px/.75rem
 
 ## Line Height
 
