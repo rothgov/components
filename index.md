@@ -7,9 +7,13 @@
 3. [Basic Elements](#basic-elements)
 4. [Digital](#digital)
 5. [Print](#print)
+6. [Resources](#resources)
 6. [Contacts](#contacts)
 
 ### Introduction {#introduction}
+- Introduction
+- Purpose
+
 ### Messaging {#messaging}
 - Tone of voice
 - Brand
@@ -48,7 +52,8 @@
 - Signage
 - Livery
 
+### Resources {#resources}
+- Resources
 
 ### Contacts {#contacts}
-- Resources
 - Contacts
