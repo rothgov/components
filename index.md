@@ -42,6 +42,7 @@ layout: default
 - Colours / Secondary
 - Colours / Gradients
 - Colours / Accessibility
+- [Mesh / Graphic](/styleguide/mesh-graphic)
 
 ### Digital {#digital}
 - Website / Mobile
