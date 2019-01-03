@@ -7,7 +7,7 @@
 3. [Basic Elements](#Basic-Elements)
 4. [Digital](#Digital)
 5. [Print](#Print)
-6. [Contacts](#Contacts)
+6. [Contacts](#contacts)
 
 ### Introduction
 ### Messaging
@@ -49,6 +49,6 @@
 - Livery
 
 
-### Contacts
+### Contacts {#contacts}
 - Resources
 - Contacts
