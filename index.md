@@ -1,4 +1,4 @@
-# Rotherham Council — Identity Guidelines
+# Rotherham Council — Styleguide
 ### Roadmap
 
 ## Contents
