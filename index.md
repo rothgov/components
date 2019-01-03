@@ -26,6 +26,7 @@ layout: default
 - Brand ownership
 
 ### Basic Elements {#basic-elements}
+- [Spacing](/styleguide/spacing)
 - [Logo](/styleguide/logo)
 - Logo / Reversed
 - Logo / Positioning
