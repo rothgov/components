@@ -37,7 +37,7 @@ layout: default
 6. [Mesh / Graphic](/styleguide/mesh)
 7. Illustration
 8. [Photography](/styleguide/photography)
-9. Typography
+9. [Typography](/styleguide/typography)
 
 ### Digital {#digital}
 - Website / Mobile
