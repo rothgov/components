@@ -22,7 +22,7 @@ layout: default
 
 ### Standards {#standards}
 1. [Principles](/styleguide/principles)
-2. Accessibility
+2. [Accessibility](/styleguide/accessibility)
 
 ### Spacing {#spacing}
 - [Grid](/styleguide/grid)
