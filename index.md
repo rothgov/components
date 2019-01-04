@@ -17,12 +17,12 @@ layout: default
 8. [Contacts](#contacts)
 
 ### Introduction {#introduction}
-- [Introduction](/styleguide/introduction)
-- Purpose
+1. [Introduction](/styleguide/introduction)
+2. Purpose
 
 ### Standards {#standards}
-- [Principles](/styleguide/principles)
-- Accessibility
+1. [Principles](/styleguide/principles)
+2 Accessibility
 
 ### Spacing {#spacing}
 - [Grid](/styleguide/grid)
