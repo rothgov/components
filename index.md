@@ -22,7 +22,7 @@ layout: default
 
 ### Standards {#standards}
 1. [Principles](/styleguide/principles)
-2 Accessibility
+2. Accessibility
 
 ### Spacing {#spacing}
 - [Grid](/styleguide/grid)
@@ -31,13 +31,13 @@ layout: default
 ### Identity {#identity}
 1. Mission
 2. Values
-3 [Tone of voice](/styleguide/tone-of-voice)
-4 [Logo](/styleguide/logo)
-5 [Colour](/styleguide/colour)
-6 [Mesh / Graphic](/styleguide/mesh)
-7 Illustration
-8 Photography
-9 Typography
+3. [Tone of voice](/styleguide/tone-of-voice)
+4. [Logo](/styleguide/logo)
+5. [Colour](/styleguide/colour)
+6. [Mesh / Graphic](/styleguide/mesh)
+7. Illustration
+8. Photography
+9. Typography
 
 ### Digital {#digital}
 - Website / Mobile
