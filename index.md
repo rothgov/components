@@ -29,19 +29,22 @@ layout: default
 - [Typography](/styleguide/typography)
 
 ### Identity {#identity}
+- Mission
 - [Logo](/styleguide/logo)
 - [Logo / Reversed](/styleguide/logo-reversed)
 - [Logo / Position](/styleguide/logo-position)
 - [Logo / Partners](/styleguide/logo-partners)
 - [Logo / Avatar](/styleguide/avatar)
-- [Font / Body](/styleguide/body)
-- [Font / Headings](/styleguide/headings)
 - [Colours / Primary](/styleguide/colours-primary)
-- Colours / Secondary
-- Colours / Gradients
 - [Colours / Accessibility](/styleguide/colours-accessibility)
 - [Mesh / Graphic](/styleguide/mesh-graphic)
+- Illustration
+- Photography
+- Typography
+- [Font / Body](/styleguide/body)
+- [Font / Headings](/styleguide/headings)
 - [Tone of voice](/styleguide/tone-of-voice)
+- Culture values
 
 ### Digital {#digital}
 - Website / Mobile
