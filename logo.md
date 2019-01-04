@@ -1,6 +1,7 @@
 ---
 title: Logo
 layout: default
+categories: Identity
 ---
 
 # Logo
@@ -53,12 +54,7 @@ Don't use the logo below 128px (8rem) wide on screens. If you need to go smaller
 When using the Rotherham Council logo on partnership services or publications, just follow the guidance on logo positioning. Make sure the correct version of the logo is used and clear space and minimun size guidance is followed.
 
 ### See also:
-- [Logo](/styleguide/logo)
-- [Logo / Reversed](/styleguide/logo-reversed)
-- [Logo / Avatar](/styleguide/logo-avatar)
-
-### See also:
-- [Logo / Reversed](/styleguide/logo-reversed)
-- [Logo / Position](/styleguide/logo-position)
+- [Grid](/styleguide/grid)
+- [Colour](/styleguide/colour)
 
 [Back to homepage](/styleguide/)
