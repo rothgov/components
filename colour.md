@@ -1,9 +1,9 @@
 ---
-title: Colours - Primary
+title: Colour
 layout: default
 ---
 
-# Colours / Primary
+# Colour
 
 Use the Councils colour palette:
 - to draw users' focus to particular content areas
