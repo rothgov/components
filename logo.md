@@ -16,12 +16,6 @@ Our Logo has been specially drawn and should not been represented with any other
 ### Black
 ![Rotherham Council logo - Black version](https://rothgov.github.io/design/images/rmbc-logo-black.svg "Rotherham Council - Black Logo")
 
-<iframe
-  src="https://carbon.now.sh/embed/?bg=rgba(171%2C%20184%2C%20195%2C%201)&t=seti&wt=none&l=auto&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false"
-  style="transform:scale(0.7); width:1024px; height:473px; border:0; overflow:hidden;"
-  sandbox="allow-scripts allow-same-origin">
-</iframe>
-
 ## Avatar
 
 Use the 'Avatar' version of the logo for social media profile applications or if the full logo in not appropriate for the application. For example, window vinyl for highlighting a glass panel.
