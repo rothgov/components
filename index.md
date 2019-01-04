@@ -36,7 +36,7 @@ layout: default
 5. [Colour](/styleguide/colour)
 6. [Mesh / Graphic](/styleguide/mesh)
 7. Illustration
-8. Photography
+8. [Photography](/styleguide/photography)
 9. Typography
 
 ### Digital {#digital}
