@@ -9,13 +9,12 @@ layout: default
 ## Contents
 1. [Introduction](#introduction)
 2. [Standards](#standards)
-3. [Messaging](#messaging)
-4. [Spacing](#spacing)
-5. [Basic Elements](#basic-elements)
-6. [Digital](#digital)
-7. [Print](#print)
-8. [Resources](#resources)
-9. [Contacts](#contacts)
+3. [Spacing](#spacing)
+4. [Identity](#identity)
+5. [Digital](#digital)
+6. [Print](#print)
+7. [Resources](#resources)
+8. [Contacts](#contacts)
 
 ### Introduction {#introduction}
 - [Introduction](/styleguide/introduction)
@@ -25,17 +24,11 @@ layout: default
 - [Principles](/styleguide/principles)
 - Accessibility
 
-### Messaging {#messaging}
-- [Tone of voice](/styleguide/tone-of-voice)
-- Brand
-- Audience types
-- Brand ownership
-
 ### Spacing {#spacing}
 - [Grid](/styleguide/grid)
 - [Typography](/styleguide/typography)
 
-### Basic Elements {#basic-elements}
+### Identity {#identity}
 - [Logo](/styleguide/logo)
 - [Logo / Reversed](/styleguide/logo-reversed)
 - [Logo / Position](/styleguide/logo-position)
@@ -48,6 +41,7 @@ layout: default
 - Colours / Gradients
 - [Colours / Accessibility](/styleguide/colours-accessibility)
 - [Mesh / Graphic](/styleguide/mesh-graphic)
+- [Tone of voice](/styleguide/tone-of-voice)
 
 ### Digital {#digital}
 - Website / Mobile
