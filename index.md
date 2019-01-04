@@ -37,7 +37,7 @@ layout: default
 - [Logo / Avatar](/styleguide/avatar)
 - [Colours / Primary](/styleguide/colours-primary)
 - [Colours / Accessibility](/styleguide/colours-accessibility)
-- [Mesh / Graphic](/styleguide/mesh-graphic)
+- [Mesh / Graphic](/styleguide/mesh)
 - Illustration
 - Photography
 - Typography
