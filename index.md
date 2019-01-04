@@ -9,12 +9,11 @@ layout: default
 ## Contents
 1. [Introduction](#introduction)
 2. [Standards](#standards)
-3. [Spacing](#spacing)
-4. [Identity](#identity)
-5. [Digital](#digital)
-6. [Print](#print)
-7. [Resources](#resources)
-8. [Contacts](#contacts)
+3. [Identity](#identity)
+4. [Digital](#digital)
+5. [Print](#print)
+6. [Resources](#resources)
+7. [Contacts](#contacts)
 
 ### Introduction {#introduction}
 1. [Introduction](/styleguide/introduction)
@@ -23,10 +22,7 @@ layout: default
 ### Standards {#standards}
 1. [Principles](/styleguide/principles)
 2. [Accessibility](/styleguide/accessibility)
-
-### Spacing {#spacing}
-- [Grid](/styleguide/grid)
-- [Typography](/styleguide/typography)
+3. [Grid](/styleguide/grid)
 
 ### Identity {#identity}
 1. Mission
