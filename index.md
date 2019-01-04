@@ -8,17 +8,22 @@ layout: default
 
 ## Contents
 1. [Introduction](#introduction)
-2. [Messaging](#messaging)
-3. [Spacing](#spacing)
-4. [Basic Elements](#basic-elements)
-5. [Digital](#digital)
-6. [Print](#print)
-7. [Resources](#resources)
-8. [Contacts](#contacts)
+2. [Standards](#standards)
+3. [Messaging](#messaging)
+4. [Spacing](#spacing)
+5. [Basic Elements](#basic-elements)
+6. [Digital](#digital)
+7. [Print](#print)
+8. [Resources](#resources)
+9. [Contacts](#contacts)
 
 ### Introduction {#introduction}
 - [Introduction](/styleguide/introduction)
 - Purpose
+
+### Standards {#standards}
+- [Principles](/styleguide/principles)
+- Accessibility
 
 ### Messaging {#messaging}
 - [Tone of voice](/styleguide/tone-of-voice)
