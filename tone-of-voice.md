@@ -15,7 +15,7 @@ The way we write and speak says a lot about us. It tells people whether we're co
 Simplicity is the key to how we work. And the key to our language. Nice simple words. Short, simple sentences. Everything clear as day. This is harder than it sounds. But it's what we're here for, so we need to make sure we live by it. Take the time to edit your writing. What can you cut? (It's amazing how much you can.) Which words could be simpler, or more straightforward?
 
 - Concise writing – use short to moderate length sentences and remove all excess words
-- The Reverse Pyramid Principle – respect our reader's time by starting with the answer
+- The [Inverted Pyramid Principle](https://www.nngroup.com/articles/inverted-pyramids-in-cyberspace/) – respect our reader's time by starting with the answer
 
 ### Straightforward
 
