@@ -12,8 +12,19 @@ Create webpage components quickly.
 ### 1 Column
 ```
 section.ph3
- div.mw9.center.pv3.ph4-l
-  div column one
+ div.container.center.pv3.ph4-l
+  div
+   p Column one
+```
+
+### 2 Column
+```
+section.ph3
+ div.container.center.pv3.ph4-l.flex.flex-column.flex-row-l.justify-between
+  div.w-50-l
+   p Column one
+  div.w-50-l
+   p Column two
 ```
 
 ---
