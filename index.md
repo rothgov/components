@@ -7,6 +7,10 @@ layout: default
 
 Create webpage components quickly.
 
+## How to use
+
+Copy code into [PugHtml](https://pughtml.com/) and edit to suit your needs.
+
 ---
 
 ### 1 Column
