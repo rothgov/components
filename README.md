@@ -1,2 +1,2 @@
-# Components
-Tachyons Components written in Pug
+# Website Components
+Example website components for common use
