@@ -3,6 +3,39 @@ title: Rotherham Council - Homepage
 layout: default
 ---
 
+<form
+  class="site-search site-search--homepage form form--search site-search--header"
+  id="js-search"
+  action="./4-search-results.html"
+  method="get"
+>
+  <div class="container">
+    <h2 class="site-search__title">Hello George, how can we help you?</h2>
+
+    <div class="form__control">
+      <label class="form__label visually-hidden" for="search-site-header">
+        Search for services, for example ‘pay council tax’
+      </label>
+
+      <div class="form__append-group">
+        <input
+          class="form__field"
+          type="search"
+          size="18"
+          maxlength="40"
+          name="q"
+          placeholder="Search for services, for example ‘pay council tax’"
+          id="search-site-header"
+        />
+
+        <button class="button button--no-chevron" type="submit">
+          <span class="button__text">Search</span>
+        </button>
+      </div>
+    </div>
+  </div>
+</form>
+
 <main class="site-main">
   <div class="site-content" id="content">
     <h1 class="visually-hidden">Rotherham Council - Home page</h1>
