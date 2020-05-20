@@ -1,186 +1,88 @@
 <header class="site-header" id="top">
-  <div class="container">
-    <div class="identity">
-      <a
-        class="identity__link"
-        href="/components"
-        title="Rotherham Council Home Page"
-        ><picture
-          ><source srcset="dist/site-logo.svg" type="image/svg+xml" />
-          <img
-            alt="Logo: Rotherham Council"
-            class="identity__logo"
-            src="./Prototypes%20%E2%80%93%20Rotherham%20Council_files/site-logo.png"
-        /></picture>
-        <span class="visually-hidden">Rotherham Council</span></a
-      >
-    </div>
-    <nav aria-label="Main Navigation" class="nav nav--primary-navigation">
-      <div class="account-navigation">
-        <a
-          class="button button--account button--no-chevron"
-          href="https://design.hq.jadu.net/rotherham-2019/prototype/user_account_signout"
-          ><span class="icon icon--inline icon-account-primary"></span
-          ><span class="button__text">Sign out</span></a
-        >
+    <div class="container">
+      <div class="identity">
+        <a class="identity__link" href="https://www.rotherham.gov.uk" title="Rotherham Metropolitan Borough Council Home Page"><picture><source srcset="https://rothgov.github.io/moderngov/images/site-logo.svg" type="image/svg+xml"><img alt="Logo: Rotherham Metropolitan Borough Council" class="identity__logo" src="https://rothgov.github.io/moderngov/images/site-logo.png"></picture></a>
       </div>
-      <div class="navigation-buttons">
-        <ul class="list list--inline">
-          <li class="list__item list__item--account">
-            <a
-              class="button button--secondary button--icon"
-              href="https://design.hq.jadu.net/user_home"
-              ><span class="icon icon-account-primary"></span
-              ><span class="icon-fallback">Account</span></a
-            >
+      
+<nav class="nav nav--primary-navigation" aria-label="Main Navigation">
+        <div class="account-navigation"><a class="button button--account button--no-chevron" href="https://www.rotherham.gov.uk/youraccount"><span class="icon icon--inline icon-account-primary"></span><span class="button__text">Your Account</span></a></div><div class="navigation-buttons"><ul class="list list--inline"><li class="list__item"><a class="button button--primary button--icon list__link js-menu-toggle js-toggle" id="js-menu-toggle" href="#js-menu" data-a11y-toggle="js-menu" aria-controls="js-menu" aria-expanded="false"><span class="icon toggle-icon"><span class="toggle-icon__line"></span></span><span class="button__text">Menu</span></a></li></ul></div>    </nav>
+
+    </div>
+    <form action="https://www.rotherham.gov.uk/site-search/results/" class="site-search form form--search site-search--header" id="js-search" method="get" name="js-search">
+      <div class="container">
+        <div class="form__control">
+          <label class="form__label visually-hidden" for="search-site-header">Search this site</label>
+          <div class="form__append-group">
+            <input class="form__field" id="search-site-header" maxlength="40" name="q" placeholder="Search this site" size="18" type="search"> <button class="button button--no-chevron" type="submit"><span class="button__text">Search</span></button>
+          </div>
+        </div>
+      </div><button class="visually-hidden site-search__focus-button" data-focus="js-search-toggle">View menu</button>
+    </form>
+  </header>
+
+  <div aria-hidden="true" aria-labelledby="js-menu-toggle a11y-toggle-0 js-menu-close" class="menu-navigation" id="js-menu">
+    <a aria-controls="js-menu" aria-expanded="false" class="menu-navigation__close-fade" data-a11y-toggle="js-menu" href="https://rothgov.github.io/moderngov#js-menu" id="a11y-toggle-0" tabindex="-1"><span class="visually-hidden">Close menu</span></a>
+    <div class="menu-navigation__content">
+      <div class="menu-navigation__controls">
+        <a aria-controls="js-menu" aria-expanded="false" class="js-menu-toggle" data-a11y-toggle="js-menu" href="https://rothgov.github.io/moderngov#js-menu" id="js-menu-close"><span class="icon toggle-icon"><span class="toggle-icon__line"></span></span><span class="button__text">Close</span></a>
+      </div>
+      <div class="menu-navigation__list-container">
+        <ul class="list list--menu">
+          <li class="list__item">
+            <a class="list__link" href="https://www.rotherham.gov.uk/about-the-council">About the Council</a>
           </li>
           <li class="list__item">
-            <a
-              aria-controls="js-menu"
-              aria-expanded="false"
-              class="button button--primary button--icon list__link js-menu-toggle js-toggle"
-              data-a11y-toggle="js-menu"
-              href="https://design.hq.jadu.net/rotherham-2019/prototype/full-prototype.html#js-menu"
-              id="js-menu-toggle"
-              ><span class="icon toggle-icon"
-                ><span class="toggle-icon__line"></span></span
-              ><span class="button__text">Menu</span></a
-            >
+            <a class="list__link" href="https://www.rotherham.gov.uk/business">Business and Economy</a>
           </li>
-        </ul>
+          <li class="list__item">
+            <a class="list__link" href="https://www.rotherham.gov.uk/children">Children and Families</a>
+          </li>
+          <li class="list__item">
+            <a class="list__link" href="https://www.rotherham.gov.uk/community">Community and Living</a>
+          </li>
+          <li class="list__item">
+            <a class="list__link" href="https://www.rotherham.gov.uk/council-tax">Council Tax and Benefits</a>
+          </li>
+          <li class="list__item">
+            <a class="list__link" href="https://www.rotherham.gov.uk/education">Education and Learning</a>
+          </li>
+          <li class="list__item">
+            <a class="list__link" href="https://www.rotherham.gov.uk/environment">Environment and Waste</a>
+          </li>
+          <li class="list__item">
+            <a class="list__link" href="https://www.rotherham.gov.uk/social-care">Health and Social Care</a>
+          </li>
+          <li class="list__item">
+            <a class="list__link" href="https://www.rotherham.gov.uk/housing">Housing</a>
+          </li>
+          <li class="list__item">
+            <a class="list__link" href="https://www.rotherham.gov.uk/jobs">Jobs and Careers</a>
+          </li>
+          <li class="list__item">
+            <a class="list__link" href="https://www.rotherham.gov.uk/leisure">Leisure and Culture</a>
+          </li>
+          <li class="list__item">
+            <a class="list__link" href="https://www.rotherham.gov.uk/planning">Planning and Development</a>
+          </li>
+          <li class="list__item">
+            <a class="list__link" href="https://www.rotherham.gov.uk/transport">Transport and Streets</a>
+          </li>
+          <li class="list__item">
+            <a class="list__link" href="https://www.rotherham.gov.uk/news">News</a>
+          </li>
+          <li class="list__item">
+            <a class="list__link" href="https://www.rotherham.gov.uk/events">Events</a>
+          </li>
+        </ul><button class="visually-hidden" data-focus="js-menu-close">Close menu</button>
       </div>
-    </nav>
+    </div>
   </div>
-  <form
-    action="https://design.hq.jadu.net/rotherham-2019/prototype/4-search-results.html"
-    class="site-search form form--search site-search--header"
-    id="js-search"
-    method="get"
-    name="js-search"
-  >
+  <nav aria-label="Breadcrumb Navigation" class="breadcrumb">
     <div class="container">
-      <div class="form__control">
-        <label class="form__label visually-hidden" for="search-site-header"
-          >Search for services, for example ‘pay council tax’</label
-        >
-        <div class="form__append-group">
-          <input
-            class="form__field"
-            id="search-site-header"
-            maxlength="40"
-            name="q"
-            placeholder="Search for services, for example ‘pay council tax’"
-            size="18"
-            type="search"
-          />
-          <button class="button button--no-chevron" type="submit">
-            <span class="button__text">Search</span>
-          </button>
-        </div>
+    <div class="well well-sm" id="breadcrumb-holder" style="padding-bottom:.2.5rem;">
+      <ol class="list list--breadcrumb breadcrumb">
+        {breadcrumb}
+      </ol>
       </div>
     </div>
-  </form>
-</header>
-<div
-  aria-hidden="true"
-  aria-labelledby="js-menu-toggle a11y-toggle-0 js-menu-close"
-  class="menu-navigation"
-  id="js-menu"
->
-  <a
-    aria-controls="js-menu"
-    aria-expanded="false"
-    class="menu-navigation__close-fade"
-    data-a11y-toggle="js-menu"
-    href="https://design.hq.jadu.net/rotherham-2019/prototype/full-prototype.html#js-menu"
-    id="a11y-toggle-0"
-    tabindex="-1"
-    ><span class="visually-hidden">Close menu</span></a
-  >
-  <div class="menu-navigation__content">
-    <div class="menu-navigation__controls">
-      <a
-        aria-controls="js-menu"
-        aria-expanded="false"
-        class="js-menu-toggle"
-        data-a11y-toggle="js-menu"
-        href="https://design.hq.jadu.net/rotherham-2019/prototype/full-prototype.html#js-menu"
-        id="js-menu-close"
-        ><span class="icon toggle-icon"
-          ><span class="toggle-icon__line"></span
-        ></span>
-        <span class="button__text">Close</span></a
-      >
-    </div>
-    <div class="menu-navigation__list-container">
-      <ul class="list list--menu">
-        <li class="list__item">
-          <a
-            class="list__link"
-            href="https://design.hq.jadu.net/rotherham-2019/prototype/landing.html?council-tax"
-            >Council Tax</a
-          >
-        </li>
-        <li class="list__item">
-          <a
-            class="list__link"
-            href="https://design.hq.jadu.net/rotherham-2019/prototype/landing.html?roads"
-            >Roads, travel and parking</a
-          >
-        </li>
-        <li class="list__item">
-          <a
-            class="list__link"
-            href="https://design.hq.jadu.net/rotherham-2019/prototype/landing.html?council-democracy"
-            >Council and democracy</a
-          >
-        </li>
-        <li class="list__item">
-          <a
-            class="list__link"
-            href="https://design.hq.jadu.net/rotherham-2019/prototype/landing.html?bins"
-            >Bins and recycling</a
-          >
-        </li>
-        <li class="list__item">
-          <a
-            class="list__link"
-            href="https://design.hq.jadu.net/rotherham-2019/prototype/landing.html?schools"
-            >Schools and learning</a
-          >
-        </li>
-        <li class="list__item">
-          <a
-            class="list__link"
-            href="https://design.hq.jadu.net/rotherham-2019/prototype/landing.html?libraries"
-            >Libraries and archives</a
-          >
-        </li>
-        <li class="list__item">
-          <a
-            class="list__link"
-            href="https://design.hq.jadu.net/rotherham-2019/prototype/landing.html?planning"
-            >Planning and building</a
-          >
-        </li>
-        <li class="list__item">
-          <a
-            class="list__link"
-            href="https://design.hq.jadu.net/rotherham-2019/prototype/landing.html?business"
-            >Business</a
-          >
-        </li>
-        <li class="list__item">
-          <a
-            class="list__link"
-            href="https://design.hq.jadu.net/rotherham-2019/prototype/landing.html?jobs"
-            >Jobs, training and volunteering</a
-          >
-        </li>
-      </ul>
-      <button class="visually-hidden" data-focus="js-menu-close">
-        Close menu
-      </button>
-    </div>
-  </div>
-</div>
+  </nav>
